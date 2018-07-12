@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BigEasyDriver
+D SparkFun ROB-12859
+$ENDCMP
+#
+$CMP MapleMini
+D SparkFun DEV-11280, STM32F103CBT6 DevBoard by LeafLab
+$ENDCMP
+#
+#End Doc Library
