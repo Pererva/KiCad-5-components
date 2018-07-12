@@ -24,4 +24,4 @@ Information in this repository is structured by folders:
 - QC2004A LCD
 		- KS0066 based Alpha-Numeric LCD [20 symbols x 4 lines]
 - EDC 2.8 LCD
-		- TFT module with SD card breakout. 2.8 inch, 320x240 pixes, ILI9431
+		- TFT module with SD card and touchscreen breakout: 2.8 inch, 320x240 pixes, ILI9341
