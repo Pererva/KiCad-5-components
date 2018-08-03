@@ -12,6 +12,7 @@ Information in this repository is structured by folders:
 		- Drawings or datasheets used for dimensions references
 
 ## Content
+### Modules
 - Big Easy Driver v1.6
 		- driver for bipolar stepper motors based on Allegro A4988 : SparkFun ROB-12859
 - BluePill
@@ -26,9 +27,11 @@ Information in this repository is structured by folders:
 - EDC 2.8 LCD
 		- TFT module with SD card and touchscreen breakout: 2.8 inch, 320x240 pixes, ILI9341
 		- More about module http://www.electrodragon.com/w/Category:TFT_LCDs
+### Adafruit modules
 - Adafruit ADS1115
 - Adafruit DS3132
 - Adafruit INA219
 - Adafruit VEML6070
 - Adafruit TSL2561
 - Adafruit TSL2591
+- Adafruit MAX31865
